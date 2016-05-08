@@ -1,0 +1,19 @@
+#osx nasty .DS_Store
+.DS_Store
+
+#maven trash
+target/
+build/
+project/
+
+# IntelliJ specific
+.idea
+*.iml
+*.ipr
+*.iws
+
+# Eclipse specific
+*.settings
+*.classpath
+*.project
+*.checkstyle
